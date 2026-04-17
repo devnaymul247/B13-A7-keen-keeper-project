@@ -2,6 +2,7 @@
 import Friends from "@/components/homepage/Friends";
 import { FaPlus } from "react-icons/fa";
 
+// favicon updated
 export default function Home() {
   return (
     <div className="bg-[#F8FAFC]">
