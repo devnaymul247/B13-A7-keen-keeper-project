@@ -5,4 +5,4 @@ A short description
 Technologies you used
 -tailwind, react, nextjs, daisy ui
 3 key features of your project
-- can call, toast notification, chart statiscics
+- friend deaitlas page when you can see options and info, toast notification, chart statiscics
