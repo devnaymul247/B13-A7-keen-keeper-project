@@ -11,6 +11,7 @@ const nextConfig = {
   },
 };
 
-
+// npm run dev
+// npm run build
 
 export default nextConfig;
