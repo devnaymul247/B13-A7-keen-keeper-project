@@ -1,6 +1,5 @@
 
 import Friends from "@/components/homepage/Friends";
-import Image from "next/image";
 import { FaPlus } from "react-icons/fa";
 
 export default function Home() {
