@@ -4,6 +4,7 @@ import Navbar from "@/components/shared/Navbar/Navbar";
 import Providers from "./lib/providers";
 import { ToastContainer } from "react-toastify";
 
+// favicon updated 
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
